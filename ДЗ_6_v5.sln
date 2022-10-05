@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuples", "Tuples\Tuples.csproj", "{12D16945-F303-4E23-BFDC-F9BE430299EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lambdas", "Lambdas\Lambdas.csproj", "{5D6935F8-D2CD-4B15-8757-92E3CB7F1429}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonTypes", "AnonTypes\AnonTypes.csproj", "{95973429-3136-40A4-B918-E926DE404716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D16945-F303-4E23-BFDC-F9BE430299EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D16945-F303-4E23-BFDC-F9BE430299EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D16945-F303-4E23-BFDC-F9BE430299EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D16945-F303-4E23-BFDC-F9BE430299EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6935F8-D2CD-4B15-8757-92E3CB7F1429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6935F8-D2CD-4B15-8757-92E3CB7F1429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6935F8-D2CD-4B15-8757-92E3CB7F1429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6935F8-D2CD-4B15-8757-92E3CB7F1429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95973429-3136-40A4-B918-E926DE404716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95973429-3136-40A4-B918-E926DE404716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95973429-3136-40A4-B918-E926DE404716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95973429-3136-40A4-B918-E926DE404716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C02409C-2B54-44A7-92D9-15BE98220C7B}
+	EndGlobalSection
+EndGlobal
